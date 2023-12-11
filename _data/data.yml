@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: Jungsoo Kim
     summary: |
-      I am an assistant professor at [the Department of English Language Education](https://www.inu.ac.kr/eduenglish/index.do?epTicket=LOG), [Incheon National University](https://www.inu.ac.kr/).
+      I am an assistant professor at the Department of English Language Education, Incheon National University.
       I study the syntax and semantics of human language, employing corpus-based and experimental approaches. 
       I have been working on: 
       ellipsis constructions (e.g., sluicing, (negative) stripping, pseudogapping) 
@@ -71,25 +71,25 @@ education:
       - degree: PhD in Linguistics
         university: The University of Texas at Austin
         time: 2011 - 2017
-        details: Sluicing and stripping in Korean: A non-ellipsis, anaphoric analysis
-        #  Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #  sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #  ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #  pretium quis, sem.
-        #    - Bullet point
-        #    - Bullet point
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
       - degree: MA in English Linguistics
         university: Kyung Hee University
         time: 2008 - 2010
-        details: Grammatical properties of the preposition of in binominal constructions
-        #  Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #  sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #  ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #  pretium quis, sem.
-        #    - Bullet point
-        #    - Bullet point
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
      - degree: BA in Applied English Linguistics
         university: Kyung Hee University (summa cum laude)
         time: 2001 - 2008
