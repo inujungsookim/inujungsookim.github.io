@@ -238,10 +238,8 @@ oss:
 
 publications:
     title: Publications
-   # intro: |
-   #   You can list your publications in this section. Lorem ipsum dolor sit
-   #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-   #   bibendum fringilla a eu lectus.
+    intro: |
+      If you click on the title of each publication, you can download a pdf version of it or see additional information about it.
     papers:
       - title: "2023. A collostructional and constructional approach to the transitive out of -ing construction"
         link: "#"
