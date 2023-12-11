@@ -243,15 +243,15 @@ publications:
    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
    #   bibendum fringilla a eu lectus.
     papers:
-      - title: Kim, Jungsoo and Rok Sim. Accepted. A collostructional and constructional approach to the transitive out of -ing construction. English Studies. (A&HCI)
+      - title: Kim, Jungsoo and Rok Sim. Accepted. A collostructional and constructional approach to the transitive out of -ing construction. English Studies. (AHCI)
         link: "#"
-   #     authors: Donald E. Knuth
-   #     conference: Addison-Wesley, 1968
+      #  authors: 
+      #  conference: "English Studies,(Accepted) (AHCI)"
    
-      - title: Kim, Jungsoo and Okgi Kim. Diachronic developments of the concessive though-fronting construction in American English: A corpus-based perspective. English Studies 104(5): 804-831. (A&HCI)
+      - title: Kim, Jungsoo and Okgi Kim. 2023. Diachronic developments of the concessive though-fronting construction in American English: A corpus-based perspective. English Studies 104(5): 804-831. (AHCI)
         link: "#"
-   #     authors: Donald E. Knuth
-   #     conference: Addison-Wesley, 1968
+      #  authors: 
+      #  conference: Addison-Wesley, 1968
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
