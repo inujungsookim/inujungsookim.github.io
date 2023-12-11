@@ -61,7 +61,7 @@ sidebar:
 career-profile:
     title: Jungsoo Kim
     summary: |
-      I am an assistant professor at [the Department of English Language Education](https://www.inu.ac.kr/eduenglish/index.do?epTicket=LOG), Incheon National University.
+      I am an assistant professor at [the Department of English Language Education](https://www.inu.ac.kr/eduenglish/index.do?epTicket=LOG), [Incheon National University](https://www.inu.ac.kr/).
       I study the syntax and semantics of human language, employing corpus-based and experimental approaches.
 education:
     title: Education
@@ -215,7 +215,7 @@ projects:
 
       - title: 2011 - 2013
         link: "#"
-        tagline: "Fulbright Fellowship"
+        tagline: "Fulbright Fellowship. Korean-American Educational Commission."
 
 oss:
     title: OSS Contributions
