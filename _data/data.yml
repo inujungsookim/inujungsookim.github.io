@@ -248,6 +248,11 @@ publications:
         authors: Kim, Jungsoo and Rok Sim
         conference: "English Studies (Accepted) (AHCI)"
         
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+        
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
