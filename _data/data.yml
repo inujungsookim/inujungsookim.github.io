@@ -8,69 +8,67 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Jungsoo Kim
-    tagline: Linguist
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jungsookim@inu.ac.kr
-    phone: +82-32-835-8126
-    timezone: KST (Korea Standard Time); UTC/GMT +9 hours
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    timezone: America/Cancun Timezone
     citizenship:
-    website: # blog.webjeda.com #do not add http://
-    linkedin: # alandoe
-    xing: # alandoe
-    github: inujungsookim
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: #'@webjeda'
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1d8336cFwLjqlwg2wumB5YWpm59v1qWrW/view?usp=sharing
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: Korean
+        - idiom: English
           level: Native
 
-        - idiom: English
-          level: Fluent
+        - idiom: French
+          level: Professional
 
-        # - idiom: Spanish
-        #  level: Professional
+        - idiom: Spanish
+          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Playing basketball
+        - item: Climbing
           link:
 
-        - item: Playing table tennis
+        - item: Snowboarding
           link:
 
-       # - item: Cooking
-       #   link:
+        - item: Cooking
+          link:
 
 career-profile:
-    title: Jungsoo Kim
+    title: Career Profile
     summary: |
-      I am an assistant professor at the Department of English Language Education, Incheon National University.
-      I study the syntax and semantics of human language, employing corpus-based and experimental approaches. 
-      I have been working on: 
-      ellipsis constructions (e.g., sluicing, (negative) stripping, pseudogapping) 
-      irregular wh-questions (e.g., what/how about, how come, wh-the-hell constructions), 
-      verb alternations, 
-      and conceptual metaphors, to name a few. 
-      You can [download a full CV here]().
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: PhD in Linguistics
-        university: The University of Texas at Austin
-        time: 2011 - 2017
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,9 +77,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: MA in English Linguistics
-        university: Kyung Hee University
-        time: 2008 - 2010
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,186 +88,134 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-     - degree: BA in Applied English Linguistics
-        university: Kyung Hee University (summa cum laude)
-        time: 2001 - 2008
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-            
+
 experiences:
-    title: Work Experiences
+    title: Experiences
     info:
-      - role: Assistant Professor
-        time: Fall 2023 - Present
-        company: The Department of English Language Education, Incheon National University, Incheon, Korea
-     #   details: |
-     #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-     #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-     #     Cum sociis natoque penatibus et magnis dis parturient montes,
-     #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-     #     pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-     #     enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-     #     error sit voluptatem accusantium doloremque laudantium, totam rem
-     #     aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-     #     architecto beatae vitae dicta sunt explicabo.
-     #       - Bullet point
-     #       - Bullet point
-      - role: Instructor
-        time: Spring 2023
-        company: The Department of English Education, Kyungpook National University, Daegu, Korea
-     #   details: |
-     #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-     #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-     #     Cum sociis natoque penatibus et magnis dis parturient montes,
-     #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-     #     pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-     #     enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-     #     error sit voluptatem accusantium doloremque laudantium, totam rem
-     #     aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-     #     architecto beatae vitae dicta sunt explicabo.
-     #       - Bullet point
-     #       - Bullet point
-      - role: Instructor
-        time: Fall 2022 - Spring 2023
-        company: The Department of English Linguistics and Language Technology, Hankuk University of Foreign Studies, Seoul, Korea
-     #   details: |
-     #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-     #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-     #     Cum sociis natoque penatibus et magnis dis parturient montes,
-     #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-     #     pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-     #     enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-     #     error sit voluptatem accusantium doloremque laudantium, totam rem
-     #     aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-     #     architecto beatae vitae dicta sunt explicabo.
-     #       - Bullet point
-     #       - Bullet point
-     - role: External Lecturer 
-       time: Fall 2020 - Spring 2023
-       company: The Department of Translation, Institute of Modern Languages and International Studies, North-Eastern Federal University, Yakutsk, Russia
-     #   details: |
-     #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-     #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-     #     Cum sociis natoque penatibus et magnis dis parturient montes,
-     #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-     #     pellentesque eu, pretium quis, sem.
-     #       - Bullet point
-     #       - Bullet point
-      - role: Instructor
-        time: Fall 2017 - Fall 2018, Spring 2020 - Spring 2023
-        company: The Department of English Linguistics and Literature, Kyung Hee University, Seoul, Korea
-     #   details: |
-     #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-     #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-     #     Cum sociis natoque penatibus et magnis dis parturient montes,
-     #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-     #     pellentesque eu, pretium quis, sem.
-     #       - Bullet point
-     #       - Bullet point
-      - role: Guest Professor
-        time: Spring 2019 - Fall 2019
-        company: The Institute for the Study of Language and Information, Kyung Hee University, Seoul, Korea
-     #   details: |
-     #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-     #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-     #     Cum sociis natoque penatibus et magnis dis parturient montes,
-     #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-     #     pellentesque eu, pretium quis, sem.
-     #       - Bullet point
-     #       - Bullet point
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
-#certifications:
-#      title: Certifications
-#      list:
-#        - name: CV Builder
-#          start: 2020
-#          end: 2021
-#          organization: Microsoft
-#          credentialid: 111-222
-#          credentialurl: www.google.com
-#          credentialname: Google
-#          details: |
-#            Details about cert. Lorem ipsum dolor sit amet, consectetur
-#            adipiscing elit.
-#            Nullam eget orci purus. Nullam ultrices neque nibh.
-#            Aenean fermentum, felis vulputate suscipit accumsan,
-#            sem enim bibendum augue, sed convallis arcu lacus at dui.
-#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#            Praesent venenatis erat non augue suscipit consectetur.
-#
-#            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-#            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-#            justo diam viverra velit, sed rhoncus leo leo eu justo.
-#            Suspendisse placerat risus ante, sed porta nisi blandit at.
-#       - name: Git learning
-#          start: 2019
-#          end:
-#          organization: Microsoft
-#          credentialid: 111-222
-#          credentialurl: www.github.com
-#          credentialname: Github
-#          details: |
-#            Older certification. Lorem ipsum dolor sit amet, consectetur
-#            adipiscing elit.
-#            Nullam eget orci purus. Nullam ultrices neque nibh.
-#            Aenean fermentum, felis vulputate suscipit accumsan,
-#            sem enim bibendum augue, sed convallis arcu lacus at dui.
-#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#            Praesent venenatis erat non augue suscipit consectetur.
+certifications:
+      title: Certifications
+      list:
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
-# projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
-#
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-#
-#oss:
-#    title: OSS Contributions
-#    intro: >
-#      You can list your open source software contributions in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    contributions:
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
