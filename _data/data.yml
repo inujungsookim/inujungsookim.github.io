@@ -201,13 +201,21 @@ projects:
   #    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: 2023. 10. - 2024. 04. 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Principal Investigator.  Acquisition of the how come-construction: A corpus-based study. Incheon National University."
 
-      - title: DevStudio
+      - title: 2021. 09. - 2022. 08. 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Principal Investigator. Synchronic properties and diachronic changes of what about and how about constructions: A big-data approach. National Research Foundation of Korea."
+
+      - title: 2020. 09 - 2021. 08. 
+        link: "#"
+        tagline: "Principal Investigator. Mismatches and parallelism in Korean gapping: An experimental perspective. National Research Foundation of Korea."
+
+      - title: 2011 - 2013
+        link: "#"
+        tagline: "Fulbright Fellowship"
 
 oss:
     title: OSS Contributions
