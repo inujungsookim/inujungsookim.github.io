@@ -30,30 +30,33 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://drive.google.com/file/d/1d8336cFwLjqlwg2wumB5YWpm59v1qWrW/view?usp=sharing
 
+    interests:
+      title: Research Interests
+      info:
+        - item: Ellipsis constructions
+          link:
 
+        - item: Irregular wh-questions
+          link:
+
+        - item: Verb alternations
+          link:
+          
+        - item: Conceptual metaphors
+          link:  
+          
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Fluent
 
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+    #    - idiom: Spanish
+    #      level: Professional
+ 
 
 career-profile:
     title: Career Profile
