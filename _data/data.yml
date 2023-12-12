@@ -75,7 +75,7 @@ education:
     info:
       - degree: PhD in Linguistics
         university: The University of Texas at Austin
-        time: 2011 - 2017
+        time: 2011 - 2017, Dissertation: Sluicing and stripping in Korean: A non-ellipsis, anaphoric analysis
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -86,7 +86,7 @@ education:
             - Bullet point
       - degree: MA in English Linguistics
         university: Kyung Hee University
-        time: 2008 - 2010
+        time: 2008 - 2010, Thesis: Grammatical properties of the preposition of in binominal constructions
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
