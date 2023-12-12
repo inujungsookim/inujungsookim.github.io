@@ -1,0 +1,38 @@
+{% assign services = site.data.data.services %}
+{% if services %}
+<section class="section services-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ services.title }}
+  </h2>
+
+  {% if services.intro %}
+  <div class="intro">
+      <p>{{ services.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for service in services.assignments %}
+    <div class="item">
+
+      <span class="service-title">
+        {% if service.link %}
+        <a href="{{ service.link }}" target="_blank">{{ service.title }}</a>
+        {% else %}
+        {{ service.title }}
+        {% endif %}
+      </span>
+
+      {% if service.tagline %}
+      - <span class="service-tagline">{{ service.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
