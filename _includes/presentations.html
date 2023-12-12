@@ -16,15 +16,15 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for presentation in presentations.papers %}
+  {% for presentations in presentations.papers %}
   <div class="item">
-    {% if presentation.link %}
-      <li><a href="{{ presentation.link }}">{{ presentation.title }}</a></li>
+    {% if presentations.link %}
+      <li><a href="{{ presentations.link }}">{{ presentations.title }}</a></li>
     {% else %}
-      <li>{{ presentation.title }}</li>
+      <li>{{ presentations.title }}</li>
     {% endif %}
-    <div class="presentation-authors">{{ presentation.authors }}</div>
-    <div class="presentation-conference">{{ presentation.conference }}</div>
+    <div class="presentations-authors">{{ presentations.authors }}</div>
+    <div class="presentations-conference">{{ presentations.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
