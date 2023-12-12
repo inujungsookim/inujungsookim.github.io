@@ -1,22 +1,22 @@
-{% assign service = site.data.data.service %}
-{% if service %}
-<section class="section service-section">
+{% assign services = site.data.data.services %}
+{% if services %}
+<section class="section services-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
-    {{ service.title }}
+    {{ services.title }}
   </h2>
 
-  {% if service.intro %}
+  {% if services.intro %}
   <div class="intro">
-      <p>{{ service.intro }}</p>
+      <p>{{ services.intro }}</p>
   </div><!--//intro-->
   {% endif %}
 
-  {% for service in service.assignments %}
+  {% for service in services.assignments %}
     <div class="item">
 
       <span class="service-title">
