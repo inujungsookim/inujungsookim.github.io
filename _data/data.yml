@@ -246,8 +246,11 @@ oss:
 publications:
     title: Publications
     intro: |
+    
       If you click on the title each publication, you can download a pdf version of it or see additional information about it.
+    
     papers:
+    
       - title: "2017. PhD Dissertation: Sluicing and stripping in Korean: A non-ellipsis, anaphoric analysis"
         link: "https://drive.google.com/file/d/1x74bHyVqjavuTnZ1evdjfiygvomzVsTh/view?usp=share_link"
         authors: Kim, Jungsoo
@@ -372,6 +375,7 @@ presentations:
     title: Presentations
     intro: |
       
+      If you click on the title of each presentation, you can download its slides.
       
     papers:
       
