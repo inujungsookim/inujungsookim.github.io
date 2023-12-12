@@ -140,39 +140,21 @@ projects:
     intro: >
     assignments:
       - title: 2023. 10. - 2024. 04. 
-        link: "#hook"
+        link: 
         tagline: "Principal Investigator.  Acquisition of the <i>how come</i>-construction: A corpus-based study. Incheon National University."
 
       - title: 2021. 09. - 2022. 08. 
-        link: "#"
+        link: 
         tagline: "Principal Investigator. Synchronic properties and diachronic changes of <i>what about</i> and <i>how about</i> constructions: A big-data approach. National Research Foundation of Korea."
 
       - title: 2020. 09 - 2021. 08. 
-        link: "#"
+        link: 
         tagline: "Principal Investigator. Mismatches and parallelism in Korean gapping: An experimental perspective. National Research Foundation of Korea."
 
       - title: 2011 - 2013
-        link: "#"
+        link: 
         tagline: "Fulbright Fellowship. Korean-American Educational Commission."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
