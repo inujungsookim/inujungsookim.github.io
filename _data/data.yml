@@ -55,7 +55,7 @@ sidebar:
           level: Fluent
 
 career-profile:
-    title: Jungsoo Kim
+    title: About Me
     summary: |
       I am an assistant professor at [the Department of English Language Education](https://www.inu.ac.kr/eduenglish/index.do?epTicket=LOG), [Incheon National University](https://www.inu.ac.kr/).
       I study the syntax and semantics of human language, employing corpus-based and experimental approaches.
@@ -160,7 +160,7 @@ publications:
     title: Publications
     intro: |
     
-      If you click on the title each publication, you can download a pdf version of it or see additional information about it.
+      Click on the title each publication to download a pdf version of it or see additional information about it.
     
     papers:
     
@@ -288,7 +288,7 @@ presentations:
     title: Presentations
     intro: |
       
-      If you click on the title of each presentation, you can download its slides.
+      Click on the title of each presentation to download its slides.
       
     papers:
       
