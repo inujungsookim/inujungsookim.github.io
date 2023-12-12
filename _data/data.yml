@@ -178,10 +178,7 @@ certifications:
 
 projects:
     title: Academic Honors and Research Grants
-  #  intro: >
-  #    You can list your side projects in this
-  #    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  #    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: >
     assignments:
       - title: 2023. 10. - 2024. 04. 
         link: "#hook"
