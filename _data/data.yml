@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1d8336cFwLjqlwg2wumB5YWpm59v1qWrW/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1fuhZiWDeL_OpRd8zBO3KjsBq0rL-qVFa/view?usp=share_link
 
     interests:
       title: Research Interests
@@ -239,7 +239,7 @@ oss:
 publications:
     title: Publications
     intro: |
-      If you click on the title of each publication, you can download a pdf version of it or see additional information about it.
+      If you click on the title each publication, you can download a pdf version of it or see additional information about it.
     papers:
       - title: "2023. A collostructional and constructional approach to the transitive out of -ing construction"
         link: "#"
@@ -355,6 +355,17 @@ publications:
         link: "https://kiss.kstudy.com/Detail/Ar?key=2782657"
         authors: Kim, Jungsoo
         conference: "Language and Information 13(1): 57-75 (KCI)"
+
+
+presentations:
+    title: Publications
+    intro: |
+      If you click on the title of each presentation, you can download its slides.
+    papers:
+      - title: "2023. Transitive out of -ing construction: A collostructional and constructional approach"
+        link: "https://drive.google.com/file/d/1j4dHj4lq7h88yEcrzMhLv-DnJVx0GGQB/view?usp=share_link"
+        authors: Kim, Jungsoo and Rok Sim
+        conference: "2023 LSK Winter Conference, December 9, 2023. Kyung Hee University."
 
 skills:
     title: Skills &amp; Proficiency
