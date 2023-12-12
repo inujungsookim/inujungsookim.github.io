@@ -248,7 +248,17 @@ publications:
     intro: |
       If you click on the title each publication, you can download a pdf version of it or see additional information about it.
     papers:
-      - title: 2023. A collostructional and constructional approach to the transitive out of -ing construction
+      - title: "2017. PhD Dissertation: Sluicing and stripping in Korean: A non-ellipsis, anaphoric analysis"
+        link: "https://drive.google.com/file/d/1x74bHyVqjavuTnZ1evdjfiygvomzVsTh/view?usp=share_link"
+        authors: Kim, Jungsoo
+        conference: "The Department of Linguistics, The University of Texas at Austin"
+        
+      - title: "2010. MA Thesis: Grammatical properties of the preposition of in binominal constructions"
+        link: "https://drive.google.com/file/d/14nbdNeb_i5xkZGCQUltB5aQSlkjd-eS-/view?usp=share_link"
+        authors: Kim, Jungsoo
+        conference: "The Department of English Linguistics and Literature, Kyung Hee University"
+        
+      - title: "2023. A collostructional and constructional approach to the transitive out of -ing construction"
         link: "#"
         authors: Kim, Jungsoo and Rok Sim
         conference: "English Studies (Accepted) (AHCI)"
