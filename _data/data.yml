@@ -54,10 +54,6 @@ sidebar:
         - idiom: English
           level: Fluent
 
-    #    - idiom: Spanish
-    #      level: Professional
- 
-
 career-profile:
     title: Jungsoo Kim
     summary: |
@@ -76,36 +72,15 @@ education:
       - degree: PhD in Linguistics
         university: The University of Texas at Austin
         time: 2011 - 2017
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
       - degree: MA in English Linguistics
         university: Kyung Hee University
         time: 2008 - 2010
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
       - degree: BA in Applied English Linguistics
         university: Kyung Hee University (<i>summa cum laude</i>)
         time: 2001 - 2008
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 
 experiences:
     title: Work Experiences
